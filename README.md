@@ -1,5 +1,5 @@
-StatSVN
-------------
+# StatSVN
+
 StatSVN is a statistics tool for SVN repositories. It generates HTML reports from SVN log files.
 
 #### The StatSVN Manual
@@ -15,3 +15,8 @@ The StatSVN manual is located here: http://svn.statsvn.org/statsvnwiki/index.php
 7. Open C:\statsvn\index.html in your web browser
 
 You can tweak the output of StatSVN in various ways. Run `java -jar statsvn.jar` for an overview of the command line parameters, and check the manual for full information.
+
+After Nabble stopped developing StatSVN, AusHick corrected several bugs. Here I record the 0.7.1 revision.
+
+在Nabble停止开发StatSVN之后，AusHick修改了几个bug，在此我记录下这个0.7.1修订版本。
+
